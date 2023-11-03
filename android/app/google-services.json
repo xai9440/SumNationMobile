@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373710538733",
+    "project_id": "sumnation-mobile",
+    "storage_bucket": "sumnation-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373710538733:android:04ae6eb07a93dd2c1889e4",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373710538733-raintv6r31b2m2eroqo0qtlkh7jpmo1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaB2reugVFLE8NWUCEcL92TduT5hQYJM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373710538733-raintv6r31b2m2eroqo0qtlkh7jpmo1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
