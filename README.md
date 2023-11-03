@@ -17,14 +17,16 @@ In a digital era characterized by an abundance of information, the challenge lie
 - Collapseable input text area
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,dart,firebase,flutter,git,postman,vscode)](https://skillicons.dev)
+killicons.dev/icons?i=androidstudio,cpp,dart,firebase,flutter,git,postman,vscode)](https://skillicons.dev)
 
 ## Previews
 
-<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/105fc228-de3b-49c0-a65b-a907d24b7758" width="350">
-<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/5abf6157-976b-4ee3-967d-2d5450726340" width="350">
-<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/ede9ca37-a7a6-44fe-b942-0b59d9a86246" width="350">
-<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/c7648b4e-24d4-4be4-b672-6a0576f4ee4f" width="350">
+<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/1facca27-abce-4fd6-999b-6f6edd20e647" width="350">
+<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/02d078e4-6e65-4471-97fe-a4d5fca296bb" width="350">
+<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/b957425c-30d5-4495-9b02-4f3c28a04ab3" width="350">
+<img src="https://github.com/xai9440/SumNationMobile/assets/110495700/42299030-9591-4bc6-b498-474ac8b7d9a7" width="350">
+
+
 
 ## Upcoming Features:
 - Allowing further user customization like length of generated text and format of the text
